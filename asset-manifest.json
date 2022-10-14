@@ -1,16 +1,16 @@
 {
   "main.css": "/native/static/css/main.5d6f1630.chunk.css",
-  "main.js": "/native/static/js/main.b240319e.chunk.js",
-  "main.js.map": "/native/static/js/main.b240319e.chunk.js.map",
+  "main.js": "/native/static/js/main.a41ada17.chunk.js",
+  "main.js.map": "/native/static/js/main.a41ada17.chunk.js.map",
   "static/js/1.95ea83b6.chunk.js": "/native/static/js/1.95ea83b6.chunk.js",
   "static/js/1.95ea83b6.chunk.js.map": "/native/static/js/1.95ea83b6.chunk.js.map",
   "static/js/2.fe9e49dc.chunk.js": "/native/static/js/2.fe9e49dc.chunk.js",
   "static/js/2.fe9e49dc.chunk.js.map": "/native/static/js/2.fe9e49dc.chunk.js.map",
   "runtime~main.js": "/native/static/js/runtime~main.a5edeebc.js",
   "runtime~main.js.map": "/native/static/js/runtime~main.a5edeebc.js.map",
-  "static/media/logo.svg": "/native/static/media/logo.06e73328.svg",
+  "static/media/Rakete.png": "/native/static/media/Rakete.53c8c219.png",
   "static/css/main.5d6f1630.chunk.css.map": "/native/static/css/main.5d6f1630.chunk.css.map",
   "index.html": "/native/index.html",
-  "precache-manifest.fad55560650d7d136a6bfb53bdc4c0b1.js": "/native/precache-manifest.fad55560650d7d136a6bfb53bdc4c0b1.js",
+  "precache-manifest.07526cde83749fe5fe00f4bd36e24bca.js": "/native/precache-manifest.07526cde83749fe5fe00f4bd36e24bca.js",
   "service-worker.js": "/native/service-worker.js"
 }
